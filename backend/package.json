@@ -1,0 +1,8 @@
+{
+  "name": "pitchdeck-backend-node",
+  "version": "1.0.0",
+  "description": "Node helper for PPTX generation",
+  "dependencies": {
+    "pptxgenjs": "^3.12.0"
+  }
+}
