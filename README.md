@@ -10,7 +10,7 @@ Describe your startup idea, pick how many slides you want, choose a color theme,
 ![Preview](2.png)
 
 ---
-FRONTEND_URL = 
+FRONTEND_URL = https://pitchdeckai-1.onrender.com
 
 ## Features
 - AI generates 4–10 slides from a single idea (cover, problem, solution, market, product, traction, business model, competition, team, ask)
