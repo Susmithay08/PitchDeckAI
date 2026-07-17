@@ -1,4 +1,4 @@
-# PitchDeck AI 🚀
+# PitchDeck AI 
 AI-powered startup pitch deck generator
 
 Describe your startup idea, pick how many slides you want, choose a color theme, and get a full investor-ready pitch deck. Download as an editable `.pptx` or themed `.pdf`.
@@ -10,7 +10,7 @@ Describe your startup idea, pick how many slides you want, choose a color theme,
 ![Preview](2.png)
 
 ---
-FRONTEND_URL = https://pitchdeckai-1.onrender.com
+FRONTEND_URL = https://pitchdeckai.onrender.com
 
 ## Features
 - AI generates 4–10 slides from a single idea (cover, problem, solution, market, product, traction, business model, competition, team, ask)
